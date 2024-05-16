@@ -189,19 +189,27 @@
                                                 <div class="fs-3 fw-bold text-gray-900">Public & Private University Ranking: ASEAN 2024</div>
                                                 <!--end::Name-->
 
-                                                <div class="border border-gray-300 border-dashed rounded min-w-100px w-100 p-4 my-4">
-                                                    <div class="d-flex justify-content-between fw-bolder fs-6 text-gray-800 w-100 mt-auto mb-3">
-                                                        <span>Data Completion Progress</span>
-                                                    </div>
-                                                    <div class="w-100 bg-light-success rounded" style="height: 24px">
-                                                        <div id="uni-progress" class="bg-success rounded" role="progressbar" style="height: 24px; width: 100%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <div class="fw-semibold fs-7 w-100 text-left mt-2">
-                                                        <span id="uni-progress-text">100% Completed</span>
+                                                <hr style="width: 55%;margin: 10px auto 20px;color: #a99f9f;">
+
+                                                <h4 class="my-3">Publish Date - 2024/05/10</h4>
+                                                <h4 class="mb-5">Completed Date - 2024/05/20</h4>
+
+                                                <div class="border border-gray-300 border-dashed rounded p-4 my-4" style="width: 56%;margin: auto;">
+                                                    <div class="text-center px-9">
+                                                        <!--begin::Statistics-->
+                                                        <div class="d-block align-items-center mb-2">
+                                                            <!--begin::Value-->
+                                                            <span class="fs-2hx fw-bold text-gray-800 me-2 lh-1">1,239</span>
+                                                            <!--end::Value-->
+                                                        </div>
+                                                        <!--end::Statistics-->
+                                                        <!--begin::Description-->
+                                                        <span class="fs-6 fw-semibold text-gray-500">Submissions</span>
+                                                        <!--end::Description-->
                                                     </div>
                                                 </div>
 
-                                                <a href="uni-data-overview.php?title=1" class="btn btn-primary mx-auto mt-8 d-block" type="button">View Data</a>
+                                                <a href="uni-data-overview.php?title=1" class="btn btn-primary mx-auto mt-8 d-block" type="button">Manage</a>
                                             </div>
                                             <!--end:: Card body-->
                                         </div>
@@ -235,19 +243,27 @@
                                                 <div class="fs-3 fw-bold text-gray-900">Public & Private University Ranking: ASEAN 2025</div>
                                                 <!--end::Name-->
 
-                                                <div class="border border-gray-300 border-dashed rounded min-w-100px w-100 p-4 my-4">
-                                                    <div class="d-flex justify-content-between fw-bolder fs-6 text-gray-800 w-100 mt-auto mb-3">
-                                                        <span>Data Completion Progress</span>
-                                                    </div>
-                                                    <div class="w-100 bg-light-primary rounded" style="height: 24px">
-                                                        <div id="uni-progress" class="bg-primary rounded" role="progressbar" style="height: 24px; width: 37%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <div class="fw-semibold fs-7 w-100 text-left mt-2">
-                                                        <span id="uni-progress-text">37% Completed</span>
+                                                <hr style="width: 55%;margin: 10px auto 20px;color: #a99f9f;">
+
+                                                <h4 class="my-3">Publish Date - 2024/05/10</h4>
+                                                <h4 class="mb-5">Completed Date - 2024/05/20</h4>
+
+                                                <div class="border border-gray-300 border-dashed rounded p-4 my-4" style="width: 56%;margin: auto;">
+                                                    <div class="text-center px-9">
+                                                        <!--begin::Statistics-->
+                                                        <div class="d-block align-items-center mb-2">
+                                                            <!--begin::Value-->
+                                                            <span class="fs-2hx fw-bold text-gray-800 me-2 lh-1">1,451</span>
+                                                            <!--end::Value-->
+                                                        </div>
+                                                        <!--end::Statistics-->
+                                                        <!--begin::Description-->
+                                                        <span class="fs-6 fw-semibold text-gray-500">Submissions</span>
+                                                        <!--end::Description-->
                                                     </div>
                                                 </div>
 
-                                                <a href="uni-data-overview.php?title=2" class="btn btn-primary mx-auto mt-8 d-block" type="button">View Data</a>
+                                                <a href="uni-data-overview.php?title=2" class="btn btn-primary mx-auto mt-8 d-block" type="button">Manage</a>
                                             </div>
                                             <!--end:: Card body-->
                                         </div>
@@ -278,22 +294,30 @@
                                             <!--begin:: Card body-->
                                             <div class="card-body p-9">
                                                 <!--begin::Name-->
-                                                <div class="fs-3 fw-bold text-gray-900 mb-12">JOB-Ready RATING</div>
+                                                <div class="fs-3 fw-bold text-gray-900">JOB-Ready RATING</div>
                                                 <!--end::Name-->
 
-                                                <div class="border border-gray-300 border-dashed rounded min-w-100px w-100 p-4 my-4">
-                                                    <div class="d-flex justify-content-between fw-bolder fs-6 text-gray-800 w-100 mt-auto mb-3">
-                                                        <span>Data Completion Progress</span>
-                                                    </div>
-                                                    <div class="w-100 bg-light-primary rounded" style="height: 24px">
-                                                        <div id="uni-progress" class="bg-primary rounded" role="progressbar" style="height: 24px; width: 0%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                                    </div>
-                                                    <div class="fw-semibold fs-7 w-100 text-left mt-2">
-                                                        <span id="uni-progress-text">0% Completed</span>
+                                                <hr style="width: 55%;margin: 10px auto 45px;color: #a99f9f;">
+
+                                                <h4 class="my-3">Publish Date - 2024/05/10</h4>
+                                                <h4 class="mb-5">Completed Date - 2024/05/20</h4>
+
+                                                <div class="border border-gray-300 border-dashed rounded p-4 my-4" style="width: 56%;margin: auto;">
+                                                    <div class="text-center px-9">
+                                                        <!--begin::Statistics-->
+                                                        <div class="d-block align-items-center mb-2">
+                                                            <!--begin::Value-->
+                                                            <span class="fs-2hx fw-bold text-gray-800 me-2 lh-1">467</span>
+                                                            <!--end::Value-->
+                                                        </div>
+                                                        <!--end::Statistics-->
+                                                        <!--begin::Description-->
+                                                        <span class="fs-6 fw-semibold text-gray-500">Submissions</span>
+                                                        <!--end::Description-->
                                                     </div>
                                                 </div>
 
-                                                <a href="uni-data-overview.php?title=3" class="btn btn-primary mx-auto mt-8 d-block" type="button">View Data</a>
+                                                <a href="uni-data-overview.php?title=3" class="btn btn-primary mx-auto mt-8 d-block" type="button">Manage</a>
                                             </div>
                                             <!--end:: Card body-->
                                         </div>
