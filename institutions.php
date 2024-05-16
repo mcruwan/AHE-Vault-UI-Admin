@@ -291,7 +291,7 @@
                                                             <input class="form-check-input" type="checkbox" data-kt-check="true" data-kt-check-target="#kt_ecommerce_products_table .form-check-input" value="1" />
                                                         </div>
                                                     </th>
-                                                    <th class="min-w-200px">Institution</th>
+                                                    <th class="min-w-200px">Institution Name</th>
                                                     <th class="text-end min-w-100px">Country</th>
                                                     <th class="text-end min-w-70px">Total Score</th>
                                                     <th class="text-end min-w-100px">Ranking</th>

@@ -347,6 +347,7 @@
                                             </div>
                                             <!--end::Card body-->
                                         </div>
+
                                         <!--end::Card widget 6-->
                                         <!--begin::Template settings-->
                                         <div class="card card-flush py-4">
