@@ -1,31 +1,5 @@
-<?php
-
-$index = '1';
-
-if (isset($_GET['title'])) {
-    $index = $_GET['title'];
-}
-
-if (isset($_GET['progress'])) {
-    $progress = $_GET['progress'];
-}
-
-
-if ($index === '1') {
-    $title = 'Public & Private University Ranking: ASEAN 2024';
-    $progress = '100';
-} elseif ($index === '2') {
-    $title = 'Public & Private University Ranking: ASEAN 2025';
-    $progress = '37';
-} else {
-    $title = 'JOB-Ready RATING';
-    $progress = '0';
-}
-
-?>
-
 <div class="card mb-5 mb-xl-10">
-    <div class="card-body pt-9 pb-0">
+    <div class="card-body pt-9 pb-6">
         <div class="d-flex flex-wrap flex-sm-nowrap">
             <!--begin: Pic-->
             <div class="me-7 mb-4">
@@ -43,7 +17,7 @@ if ($index === '1') {
                     <div class="d-flex flex-column">
                         <!--begin::Name-->
                         <div class="d-flex align-items-center mb-2">
-                            <a href="#" class="text-gray-900 text-hover-primary fs-2 fw-bold me-1"><?php echo $title; ?></a>
+                            <a href="#" class="text-gray-900 text-hover-primary fs-2 fw-bold me-1">Institution 1</a>
                             <a href="#">
                                 <i class="ki-outline ki-verify fs-1 text-primary"></i>
                             </a>
@@ -158,10 +132,10 @@ if ($index === '1') {
                     <div class="d-flex align-items-center w-200px w-sm-300px flex-column mt-3">
                         <div class="d-flex justify-content-between w-100 mt-auto mb-2">
                             <span class="fw-semibold fs-6 text-gray-500">Data Compleation</span>
-                            <span class="fw-bold fs-6"><?php echo $progress; ?>%</span>
+                            <span class="fw-bold fs-6">40%</span>
                         </div>
                         <div class="h-5px mx-3 w-100 bg-light mb-3">
-                            <div class="bg-success rounded h-5px" role="progressbar" style="width: <?php echo $progress; ?>%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div class="bg-success rounded h-5px" role="progressbar" style="width: 40%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                         </div>
                     </div>
                     <!--end::Progress-->
@@ -170,11 +144,5 @@ if ($index === '1') {
             </div>
             <!--end::Info-->
         </div>
-        <ul class="nav nav-stretch nav-line-tabs nav-line-tabs-2x border-transparent fs-5 fw-bold">
-            <li class="nav-item mt-2">
-                <a class="nav-link text-active-primary ms-0 me-10 py-5 active" href="uni-data-overview.php?title=<?php echo $index; ?>">Overview</a>
-            </li>
-        </ul>
-        <!--begin::Navs-->
     </div>
 </div>
