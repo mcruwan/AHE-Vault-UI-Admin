@@ -177,7 +177,7 @@
                                             <div class="card-header">
                                                 <!--begin::Card title-->
                                                 <div class="card-title">
-                                                    <h2>Thumbnail</h2>
+                                                    <h2>Institution Logo</h2>
                                                 </div>
                                                 <!--end::Card title-->
                                             </div>
@@ -249,9 +249,9 @@
                                                 <!--begin::Select2-->
                                                 <select class="form-select mb-2" data-control="select2" data-hide-search="true" data-placeholder="Select an option" id="kt_ecommerce_add_product_status_select">
                                                     <option></option>
-                                                    <option value="published" selected="selected">Published</option>
+                                                    <option value="Active" selected="selected">Active</option>
                                                     <option value="draft">Draft</option>
-                                                    <option value="scheduled">Scheduled</option>
+                                                    <option value="Disabled">Disabled</option>
                                                     <option value="inactive">Inactive</option>
                                                 </select>
                                                 <!--end::Select2-->
@@ -274,7 +274,7 @@
                                             <div class="card-header">
                                                 <!--begin::Card title-->
                                                 <div class="card-title">
-                                                    <h2>Institution Details</h2>
+                                                    <h2>Institution Type</h2>
                                                 </div>
                                                 <!--end::Card title-->
                                             </div>
@@ -288,16 +288,9 @@
                                                 <!--begin::Select2-->
                                                 <select class="form-select mb-2" data-control="select2" data-placeholder="Select an option" data-allow-clear="true" multiple="multiple">
                                                     <option></option>
-                                                    <option value="Computers">Computers</option>
-                                                    <option value="Watches">Watches</option>
-                                                    <option value="Headphones">Headphones</option>
-                                                    <option value="Footwear">Footwear</option>
-                                                    <option value="Cameras">Cameras</option>
-                                                    <option value="Shirts">Shirts</option>
-                                                    <option value="Household">Household</option>
-                                                    <option value="Handbags">Handbags</option>
-                                                    <option value="Wines">Wines</option>
-                                                    <option value="Sandals">Sandals</option>
+                                                    <option value="Public">Public</option>
+                                                    <option value="Private">Private</option>
+                                                    <option value="Other">Other</option>
                                                 </select>
                                                 <!--end::Select2-->
                                                 <!--begin::Description-->
@@ -323,56 +316,6 @@
                                             <!--end::Card body-->
                                         </div>
                                         <!--end::Category & tags-->
-                                        <!--begin::Weekly sales-->
-                                        <div class="card card-flush py-4">
-                                            <!--begin::Card header-->
-                                            <div class="card-header">
-                                                <!--begin::Card title-->
-                                                <div class="card-title">
-                                                    <h2>Weekly Sales</h2>
-                                                </div>
-                                                <!--end::Card title-->
-                                            </div>
-                                            <!--end::Card header-->
-                                            <!--begin::Card body-->
-                                            <div class="card-body pt-0">
-                                                <span class="text-muted">No data available. Sales data will begin capturing once institution has been published.</span>
-                                            </div>
-                                            <!--end::Card body-->
-                                        </div>
-                                        <!--end::Weekly sales-->
-                                        <!--begin::Template settings-->
-                                        <div class="card card-flush py-4">
-                                            <!--begin::Card header-->
-                                            <div class="card-header">
-                                                <!--begin::Card title-->
-                                                <div class="card-title">
-                                                    <h2>Institution Template</h2>
-                                                </div>
-                                                <!--end::Card title-->
-                                            </div>
-                                            <!--end::Card header-->
-                                            <!--begin::Card body-->
-                                            <div class="card-body pt-0">
-                                                <!--begin::Select store template-->
-                                                <label for="kt_ecommerce_add_product_store_template" class="form-label">Select a institution template</label>
-                                                <!--end::Select store template-->
-                                                <!--begin::Select2-->
-                                                <select class="form-select mb-2" data-control="select2" data-hide-search="true" data-placeholder="Select an option" id="kt_ecommerce_add_product_store_template">
-                                                    <option></option>
-                                                    <option value="default" selected="selected">Default template</option>
-                                                    <option value="electronics">Electronics</option>
-                                                    <option value="office">Office stationary</option>
-                                                    <option value="fashion">Fashion</option>
-                                                </select>
-                                                <!--end::Select2-->
-                                                <!--begin::Description-->
-                                                <div class="text-muted fs-7">Assign a template from your current theme to define how a single institution is displayed.</div>
-                                                <!--end::Description-->
-                                            </div>
-                                            <!--end::Card body-->
-                                        </div>
-                                        <!--end::Template settings-->
                                     </div>
                                     <!--end::Aside column-->
                                     <!--begin::Main column-->
@@ -750,207 +693,6 @@
                                                         <!--end::Card header-->
                                                     </div>
                                                     <!--end::General options-->
-                                                    <!--begin::Media-->
-                                                    <div class="card card-flush py-4">
-                                                        <!--begin::Card header-->
-                                                        <div class="card-header">
-                                                            <div class="card-title">
-                                                                <h2>Media</h2>
-                                                            </div>
-                                                        </div>
-                                                        <!--end::Card header-->
-                                                        <!--begin::Card body-->
-                                                        <div class="card-body pt-0">
-                                                            <!--begin::Input group-->
-                                                            <div class="fv-row mb-2">
-                                                                <!--begin::Dropzone-->
-                                                                <div class="dropzone" id="kt_ecommerce_add_product_media">
-                                                                    <!--begin::Message-->
-                                                                    <div class="dz-message needsclick">
-                                                                        <!--begin::Icon-->
-                                                                        <i class="ki-outline ki-file-up text-primary fs-3x"></i>
-                                                                        <!--end::Icon-->
-                                                                        <!--begin::Info-->
-                                                                        <div class="ms-4">
-                                                                            <h3 class="fs-5 fw-bold text-gray-900 mb-1">Drop files here or click to upload.</h3>
-                                                                            <span class="fs-7 fw-semibold text-gray-500">Upload up to 10 files</span>
-                                                                        </div>
-                                                                        <!--end::Info-->
-                                                                    </div>
-                                                                </div>
-                                                                <!--end::Dropzone-->
-                                                            </div>
-                                                            <!--end::Input group-->
-                                                            <!--begin::Description-->
-                                                            <div class="text-muted fs-7">Set the institution media gallery.</div>
-                                                            <!--end::Description-->
-                                                        </div>
-                                                        <!--end::Card header-->
-                                                    </div>
-                                                    <!--end::Media-->
-                                                    <!--begin::Pricing-->
-                                                    <div class="card card-flush py-4">
-                                                        <!--begin::Card header-->
-                                                        <div class="card-header">
-                                                            <div class="card-title">
-                                                                <h2>Pricing</h2>
-                                                            </div>
-                                                        </div>
-                                                        <!--end::Card header-->
-                                                        <!--begin::Card body-->
-                                                        <div class="card-body pt-0">
-                                                            <!--begin::Input group-->
-                                                            <div class="mb-10 fv-row">
-                                                                <!--begin::Label-->
-                                                                <label class="required form-label">Base Price</label>
-                                                                <!--end::Label-->
-                                                                <!--begin::Input-->
-                                                                <input type="text" name="price" class="form-control mb-2" placeholder="Institution price" />
-                                                                <!--end::Input-->
-                                                                <!--begin::Description-->
-                                                                <div class="text-muted fs-7">Set the institution price.</div>
-                                                                <!--end::Description-->
-                                                            </div>
-                                                            <!--end::Input group-->
-                                                            <!--begin::Input group-->
-                                                            <div class="fv-row mb-10">
-                                                                <!--begin::Label-->
-                                                                <label class="fs-6 fw-semibold mb-2">Discount Type
-                                                                    <span class="ms-1" data-bs-toggle="tooltip" title="Select a discount type that will be applied to this institution">
-                                                                        <i class="ki-outline ki-information-5 text-gray-500 fs-6"></i>
-                                                                    </span></label>
-                                                                <!--End::Label-->
-                                                                <!--begin::Row-->
-                                                                <div class="row row-cols-1 row-cols-md-3 row-cols-lg-1 row-cols-xl-3 g-9" data-kt-buttons="true" data-kt-buttons-target="[data-kt-button='true']">
-                                                                    <!--begin::Col-->
-                                                                    <div class="col">
-                                                                        <!--begin::Option-->
-                                                                        <label class="btn btn-outline btn-outline-dashed btn-active-light-primary d-flex text-start p-6" data-kt-button="true">
-                                                                            <!--begin::Radio-->
-                                                                            <span class="form-check form-check-custom form-check-solid form-check-sm align-items-start mt-1">
-                                                                                <input class="form-check-input" type="radio" name="discount_option" value="1" />
-                                                                            </span>
-                                                                            <!--end::Radio-->
-                                                                            <!--begin::Info-->
-                                                                            <span class="ms-5">
-                                                                                <span class="fs-4 fw-bold text-gray-800 d-block">No Discount</span>
-                                                                            </span>
-                                                                            <!--end::Info-->
-                                                                        </label>
-                                                                        <!--end::Option-->
-                                                                    </div>
-                                                                    <!--end::Col-->
-                                                                    <!--begin::Col-->
-                                                                    <div class="col">
-                                                                        <!--begin::Option-->
-                                                                        <label class="btn btn-outline btn-outline-dashed btn-active-light-primary active d-flex text-start p-6" data-kt-button="true">
-                                                                            <!--begin::Radio-->
-                                                                            <span class="form-check form-check-custom form-check-solid form-check-sm align-items-start mt-1">
-                                                                                <input class="form-check-input" type="radio" name="discount_option" value="2" checked="checked" />
-                                                                            </span>
-                                                                            <!--end::Radio-->
-                                                                            <!--begin::Info-->
-                                                                            <span class="ms-5">
-                                                                                <span class="fs-4 fw-bold text-gray-800 d-block">Percentage %</span>
-                                                                            </span>
-                                                                            <!--end::Info-->
-                                                                        </label>
-                                                                        <!--end::Option-->
-                                                                    </div>
-                                                                    <!--end::Col-->
-                                                                    <!--begin::Col-->
-                                                                    <div class="col">
-                                                                        <!--begin::Option-->
-                                                                        <label class="btn btn-outline btn-outline-dashed btn-active-light-primary d-flex text-start p-6" data-kt-button="true">
-                                                                            <!--begin::Radio-->
-                                                                            <span class="form-check form-check-custom form-check-solid form-check-sm align-items-start mt-1">
-                                                                                <input class="form-check-input" type="radio" name="discount_option" value="3" />
-                                                                            </span>
-                                                                            <!--end::Radio-->
-                                                                            <!--begin::Info-->
-                                                                            <span class="ms-5">
-                                                                                <span class="fs-4 fw-bold text-gray-800 d-block">Fixed Price</span>
-                                                                            </span>
-                                                                            <!--end::Info-->
-                                                                        </label>
-                                                                        <!--end::Option-->
-                                                                    </div>
-                                                                    <!--end::Col-->
-                                                                </div>
-                                                                <!--end::Row-->
-                                                            </div>
-                                                            <!--end::Input group-->
-                                                            <!--begin::Input group-->
-                                                            <div class="mb-10 fv-row" id="kt_ecommerce_add_product_discount_percentage">
-                                                                <!--begin::Label-->
-                                                                <label class="form-label">Set Discount Percentage</label>
-                                                                <!--end::Label-->
-                                                                <!--begin::Slider-->
-                                                                <div class="d-flex flex-column text-center mb-5">
-                                                                    <div class="d-flex align-items-start justify-content-center mb-7">
-                                                                        <span class="fw-bold fs-3x" id="kt_ecommerce_add_product_discount_label">0</span>
-                                                                        <span class="fw-bold fs-4 mt-1 ms-2">%</span>
-                                                                    </div>
-                                                                    <div id="kt_ecommerce_add_product_discount_slider" class="noUi-sm"></div>
-                                                                </div>
-                                                                <!--end::Slider-->
-                                                                <!--begin::Description-->
-                                                                <div class="text-muted fs-7">Set a percentage discount to be applied on this institution.</div>
-                                                                <!--end::Description-->
-                                                            </div>
-                                                            <!--end::Input group-->
-                                                            <!--begin::Input group-->
-                                                            <div class="d-none mb-10 fv-row" id="kt_ecommerce_add_product_discount_fixed">
-                                                                <!--begin::Label-->
-                                                                <label class="form-label">Fixed Discounted Price</label>
-                                                                <!--end::Label-->
-                                                                <!--begin::Input-->
-                                                                <input type="text" name="dicsounted_price" class="form-control mb-2" placeholder="Discounted price" />
-                                                                <!--end::Input-->
-                                                                <!--begin::Description-->
-                                                                <div class="text-muted fs-7">Set the discounted institution price. The institution will be reduced at the determined fixed price</div>
-                                                                <!--end::Description-->
-                                                            </div>
-                                                            <!--end::Input group-->
-                                                            <!--begin::Tax-->
-                                                            <div class="d-flex flex-wrap gap-5">
-                                                                <!--begin::Input group-->
-                                                                <div class="fv-row w-100 flex-md-root">
-                                                                    <!--begin::Label-->
-                                                                    <label class="required form-label">Tax Class</label>
-                                                                    <!--end::Label-->
-                                                                    <!--begin::Select2-->
-                                                                    <select class="form-select mb-2" name="tax" data-control="select2" data-hide-search="true" data-placeholder="Select an option">
-                                                                        <option></option>
-                                                                        <option value="0">Tax Free</option>
-                                                                        <option value="1">Taxable Goods</option>
-                                                                        <option value="2">Downloadable Institution</option>
-                                                                    </select>
-                                                                    <!--end::Select2-->
-                                                                    <!--begin::Description-->
-                                                                    <div class="text-muted fs-7">Set the institution tax class.</div>
-                                                                    <!--end::Description-->
-                                                                </div>
-                                                                <!--end::Input group-->
-                                                                <!--begin::Input group-->
-                                                                <div class="fv-row w-100 flex-md-root">
-                                                                    <!--begin::Label-->
-                                                                    <label class="form-label">VAT Amount (%)</label>
-                                                                    <!--end::Label-->
-                                                                    <!--begin::Input-->
-                                                                    <input type="text" class="form-control mb-2" value="35" />
-                                                                    <!--end::Input-->
-                                                                    <!--begin::Description-->
-                                                                    <div class="text-muted fs-7">Set the institution VAT about.</div>
-                                                                    <!--end::Description-->
-                                                                </div>
-                                                                <!--end::Input group-->
-                                                            </div>
-                                                            <!--end:Tax-->
-                                                        </div>
-                                                        <!--end::Card header-->
-                                                    </div>
-                                                    <!--end::Pricing-->
                                                 </div>
                                             </div>
                                             <!--end::Tab pane-->

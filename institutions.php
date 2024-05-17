@@ -174,10 +174,10 @@
                                                     <div>
                                                         <select class="form-select form-select-solid" multiple="multiple" data-kt-select2="true" data-close-on-select="false" data-placeholder="Select option" data-dropdown-parent="#kt_menu_660662b42b909" data-allow-clear="true">
                                                             <option></option>
-                                                            <option value="1">Approved</option>
-                                                            <option value="2">Pending</option>
-                                                            <option value="2">In Process</option>
-                                                            <option value="2">Rejected</option>
+                                                            <option value="Active">Active</option>
+                                                            <option value="draft">Draft</option>
+                                                            <option value="Disabled">Disabled</option>
+                                                            <option value="inactive">Inactive</option>
                                                         </select>
                                                     </div>
                                                     <!--end::Input-->
@@ -186,20 +186,24 @@
                                                 <!--begin::Input group-->
                                                 <div class="mb-10">
                                                     <!--begin::Label-->
-                                                    <label class="form-label fw-semibold">Member Type:</label>
+                                                    <label class="form-label fw-semibold">Institution Type:</label>
                                                     <!--end::Label-->
                                                     <!--begin::Options-->
                                                     <div class="d-flex">
                                                         <!--begin::Options-->
                                                         <label class="form-check form-check-sm form-check-custom form-check-solid me-5">
-                                                            <input class="form-check-input" type="checkbox" value="1" />
-                                                            <span class="form-check-label">Author</span>
+                                                            <input class="form-check-input" type="checkbox" value="1" checked />
+                                                            <span class="form-check-label">Public</span>
                                                         </label>
                                                         <!--end::Options-->
                                                         <!--begin::Options-->
+                                                        <label class="form-check form-check-sm form-check-custom form-check-solid me-5">
+                                                            <input class="form-check-input" type="checkbox" value="2" />
+                                                            <span class="form-check-label">Private</span>
+                                                        </label>
                                                         <label class="form-check form-check-sm form-check-custom form-check-solid">
-                                                            <input class="form-check-input" type="checkbox" value="2" checked="checked" />
-                                                            <span class="form-check-label">Customer</span>
+                                                            <input class="form-check-input" type="checkbox" value="3" />
+                                                            <span class="form-check-label">Other</span>
                                                         </label>
                                                         <!--end::Options-->
                                                     </div>
@@ -231,8 +235,6 @@
                                         <!--end::Menu 1-->
                                     </div>
                                     <!--end::Filter menu-->
-                                    <!--begin::Secondary button-->
-                                    <!--end::Secondary button-->
                                     <!--begin::Primary button-->
                                     <a href="#" class="btn btn-sm fw-bold btn-primary" data-bs-toggle="modal" data-bs-target="#kt_modal_create_app">Create</a>
                                     <!--end::Primary button-->
@@ -267,8 +269,8 @@
                                                 <select class="form-select form-select-solid" data-control="select2" data-hide-search="true" data-placeholder="Status" data-kt-ecommerce-product-filter="status">
                                                     <option></option>
                                                     <option value="all">All</option>
-                                                    <option value="published">Published</option>
-                                                    <option value="scheduled">Scheduled</option>
+                                                    <option value="Active">Active</option>
+                                                    <option value="Disabled">Disabled</option>
                                                     <option value="inactive">Inactive</option>
                                                 </select>
                                                 <!--end::Select2-->
@@ -293,7 +295,7 @@
                                                     </th>
                                                     <th class="min-w-200px">Institution Name</th>
                                                     <th class="text-end min-w-100px">Country</th>
-                                                    <th class="text-end min-w-70px">Total Score</th>
+                                                    <th class="text-end min-w-70px">Type</th>
                                                     <th class="text-end min-w-100px">Ranking</th>
                                                     <th class="text-end min-w-100px">Status</th>
                                                     <th class="text-end min-w-70px">Actions</th>
@@ -324,7 +326,7 @@
                                                         <span class="fw-bold">Malaysia</span>
                                                     </td>
                                                     <td class="text-end pe-0" data-order="14">
-                                                        <span class="fw-bold ms-3">64,54</span>
+                                                        <span class="fw-bold ms-3">Public</span>
                                                     </td>
                                                     <td class="text-end pe-0">1</td>
                                                     <td class="text-end pe-0" data-order="Inactive">
@@ -338,6 +340,9 @@
                                                         <!--begin::Menu-->
                                                         <div class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-600 menu-state-bg-light-primary fw-semibold fs-7 w-125px py-4" data-kt-menu="true">
                                                             <!--begin::Menu item-->
+                                                            <div class="menu-item px-3">
+                                                                <a href="edit-institution.php" class="menu-link px-3">View</a>
+                                                            </div>
                                                             <div class="menu-item px-3">
                                                                 <a href="edit-institution.php" class="menu-link px-3">Edit</a>
                                                             </div>
@@ -375,12 +380,12 @@
                                                         <span class="fw-bold">Indonesia</span>
                                                     </td>
                                                     <td class="text-end pe-0" data-order="14">
-                                                        <span class="fw-bold ms-3">64,54</span>
+                                                        <span class="fw-bold ms-3">Private</span>
                                                     </td>
                                                     <td class="text-end pe-0">2</td>
-                                                    <td class="text-end pe-0" data-order="Scheduled">
+                                                    <td class="text-end pe-0" data-order="Disabled">
                                                         <!--begin::Badges-->
-                                                        <div class="badge badge-light-primary">Scheduled</div>
+                                                        <div class="badge badge-light-primary">Disabled</div>
                                                         <!--end::Badges-->
                                                     </td>
                                                     <td class="text-end">
@@ -389,6 +394,9 @@
                                                         <!--begin::Menu-->
                                                         <div class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-600 menu-state-bg-light-primary fw-semibold fs-7 w-125px py-4" data-kt-menu="true">
                                                             <!--begin::Menu item-->
+                                                            <div class="menu-item px-3">
+                                                                <a href="edit-institution.php" class="menu-link px-3">View</a>
+                                                            </div>
                                                             <div class="menu-item px-3">
                                                                 <a href="edit-institution.php" class="menu-link px-3">Edit</a>
                                                             </div>
@@ -426,7 +434,7 @@
                                                         <span class="fw-bold">Malaysia</span>
                                                     </td>
                                                     <td class="text-end pe-0" data-order="14">
-                                                        <span class="fw-bold ms-3">64,54</span>
+                                                        <span class="fw-bold ms-3">Other</span>
                                                     </td>
                                                     <td class="text-end pe-0">3</td>
                                                     <td class="text-end pe-0" data-order="Inactive">
@@ -440,6 +448,9 @@
                                                         <!--begin::Menu-->
                                                         <div class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-600 menu-state-bg-light-primary fw-semibold fs-7 w-125px py-4" data-kt-menu="true">
                                                             <!--begin::Menu item-->
+                                                            <div class="menu-item px-3">
+                                                                <a href="edit-institution.php" class="menu-link px-3">View</a>
+                                                            </div>
                                                             <div class="menu-item px-3">
                                                                 <a href="edit-institution.php" class="menu-link px-3">Edit</a>
                                                             </div>
@@ -477,7 +488,7 @@
                                                         <span class="fw-bold">Indonesia</span>
                                                     </td>
                                                     <td class="text-end pe-0" data-order="14">
-                                                        <span class="fw-bold ms-3">64,54</span>
+                                                        <span class="fw-bold ms-3">Other</span>
                                                     </td>
                                                     <td class="text-end pe-0">4</td>
                                                     <td class="text-end pe-0" data-order="Inactive">
@@ -491,6 +502,9 @@
                                                         <!--begin::Menu-->
                                                         <div class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-600 menu-state-bg-light-primary fw-semibold fs-7 w-125px py-4" data-kt-menu="true">
                                                             <!--begin::Menu item-->
+                                                            <div class="menu-item px-3">
+                                                                <a href="edit-institution.php" class="menu-link px-3">View</a>
+                                                            </div>
                                                             <div class="menu-item px-3">
                                                                 <a href="edit-institution.php" class="menu-link px-3">Edit</a>
                                                             </div>
@@ -528,12 +542,12 @@
                                                         <span class="fw-bold">Philippines</span>
                                                     </td>
                                                     <td class="text-end pe-0" data-order="14">
-                                                        <span class="fw-bold ms-3">64,54</span>
+                                                        <span class="fw-bold ms-3">Public</span>
                                                     </td>
                                                     <td class="text-end pe-0">5</td>
-                                                    <td class="text-end pe-0" data-order="Published">
+                                                    <td class="text-end pe-0" data-order="Active">
                                                         <!--begin::Badges-->
-                                                        <div class="badge badge-light-success">Published</div>
+                                                        <div class="badge badge-light-success">Active</div>
                                                         <!--end::Badges-->
                                                     </td>
                                                     <td class="text-end">
@@ -579,12 +593,12 @@
                                                         <span class="fw-bold">Malaysia</span>
                                                     </td>
                                                     <td class="text-end pe-0" data-order="14">
-                                                        <span class="fw-bold ms-3">64,54</span>
+                                                        <span class="fw-bold ms-3">Private</span>
                                                     </td>
                                                     <td class="text-end pe-0">6</td>
-                                                    <td class="text-end pe-0" data-order="Scheduled">
+                                                    <td class="text-end pe-0" data-order="Disabled">
                                                         <!--begin::Badges-->
-                                                        <div class="badge badge-light-primary">Scheduled</div>
+                                                        <div class="badge badge-light-primary">Disabled</div>
                                                         <!--end::Badges-->
                                                     </td>
                                                     <td class="text-end">
@@ -593,6 +607,9 @@
                                                         <!--begin::Menu-->
                                                         <div class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-600 menu-state-bg-light-primary fw-semibold fs-7 w-125px py-4" data-kt-menu="true">
                                                             <!--begin::Menu item-->
+                                                            <div class="menu-item px-3">
+                                                                <a href="edit-institution.php" class="menu-link px-3">View</a>
+                                                            </div>
                                                             <div class="menu-item px-3">
                                                                 <a href="edit-institution.php" class="menu-link px-3">Edit</a>
                                                             </div>
@@ -630,7 +647,7 @@
                                                         <span class="fw-bold">Malaysia</span>
                                                     </td>
                                                     <td class="text-end pe-0" data-order="14">
-                                                        <span class="fw-bold ms-3">64,54</span>
+                                                        <span class="fw-bold ms-3">Other</span>
                                                     </td>
                                                     <td class="text-end pe-0">7</td>
                                                     <td class="text-end pe-0" data-order="Inactive">
@@ -644,6 +661,9 @@
                                                         <!--begin::Menu-->
                                                         <div class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-600 menu-state-bg-light-primary fw-semibold fs-7 w-125px py-4" data-kt-menu="true">
                                                             <!--begin::Menu item-->
+                                                            <div class="menu-item px-3">
+                                                                <a href="edit-institution.php" class="menu-link px-3">View</a>
+                                                            </div>
                                                             <div class="menu-item px-3">
                                                                 <a href="edit-institution.php" class="menu-link px-3">Edit</a>
                                                             </div>
@@ -681,7 +701,7 @@
                                                         <span class="fw-bold">Indonesia</span>
                                                     </td>
                                                     <td class="text-end pe-0" data-order="14">
-                                                        <span class="fw-bold ms-3">64,54</span>
+                                                        <span class="fw-bold ms-3">Other</span>
                                                     </td>
                                                     <td class="text-end pe-0">8</td>
                                                     <td class="text-end pe-0" data-order="Inactive">
@@ -695,6 +715,9 @@
                                                         <!--begin::Menu-->
                                                         <div class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-600 menu-state-bg-light-primary fw-semibold fs-7 w-125px py-4" data-kt-menu="true">
                                                             <!--begin::Menu item-->
+                                                            <div class="menu-item px-3">
+                                                                <a href="edit-institution.php" class="menu-link px-3">View</a>
+                                                            </div>
                                                             <div class="menu-item px-3">
                                                                 <a href="edit-institution.php" class="menu-link px-3">Edit</a>
                                                             </div>
@@ -732,12 +755,12 @@
                                                         <span class="fw-bold">Philippines</span>
                                                     </td>
                                                     <td class="text-end pe-0" data-order="14">
-                                                        <span class="fw-bold ms-3">64,54</span>
+                                                        <span class="fw-bold ms-3">Public</span>
                                                     </td>
                                                     <td class="text-end pe-0">9</td>
-                                                    <td class="text-end pe-0" data-order="Published">
+                                                    <td class="text-end pe-0" data-order="Active">
                                                         <!--begin::Badges-->
-                                                        <div class="badge badge-light-success">Published</div>
+                                                        <div class="badge badge-light-success">Active</div>
                                                         <!--end::Badges-->
                                                     </td>
                                                     <td class="text-end">
@@ -746,6 +769,9 @@
                                                         <!--begin::Menu-->
                                                         <div class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-600 menu-state-bg-light-primary fw-semibold fs-7 w-125px py-4" data-kt-menu="true">
                                                             <!--begin::Menu item-->
+                                                            <div class="menu-item px-3">
+                                                                <a href="edit-institution.php" class="menu-link px-3">View</a>
+                                                            </div>
                                                             <div class="menu-item px-3">
                                                                 <a href="edit-institution.php" class="menu-link px-3">Edit</a>
                                                             </div>
@@ -783,12 +809,12 @@
                                                         <span class="fw-bold">Malaysia</span>
                                                     </td>
                                                     <td class="text-end pe-0" data-order="14">
-                                                        <span class="fw-bold ms-3">64,54</span>
+                                                        <span class="fw-bold ms-3">Private</span>
                                                     </td>
                                                     <td class="text-end pe-0">10</td>
-                                                    <td class="text-end pe-0" data-order="Scheduled">
+                                                    <td class="text-end pe-0" data-order="Disabled">
                                                         <!--begin::Badges-->
-                                                        <div class="badge badge-light-primary">Scheduled</div>
+                                                        <div class="badge badge-light-primary">Disabled</div>
                                                         <!--end::Badges-->
                                                     </td>
                                                     <td class="text-end">
@@ -797,6 +823,9 @@
                                                         <!--begin::Menu-->
                                                         <div class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-600 menu-state-bg-light-primary fw-semibold fs-7 w-125px py-4" data-kt-menu="true">
                                                             <!--begin::Menu item-->
+                                                            <div class="menu-item px-3">
+                                                                <a href="edit-institution.php" class="menu-link px-3">View</a>
+                                                            </div>
                                                             <div class="menu-item px-3">
                                                                 <a href="edit-institution.php" class="menu-link px-3">Edit</a>
                                                             </div>
@@ -834,12 +863,12 @@
                                                         <span class="fw-bold">Malaysia</span>
                                                     </td>
                                                     <td class="text-end pe-0" data-order="14">
-                                                        <span class="fw-bold ms-3">64,54</span>
+                                                        <span class="fw-bold ms-3">Other</span>
                                                     </td>
                                                     <td class="text-end pe-0">11</td>
-                                                    <td class="text-end pe-0" data-order="Published">
+                                                    <td class="text-end pe-0" data-order="Active">
                                                         <!--begin::Badges-->
-                                                        <div class="badge badge-light-success">Published</div>
+                                                        <div class="badge badge-light-success">Active</div>
                                                         <!--end::Badges-->
                                                     </td>
                                                     <td class="text-end">
@@ -848,6 +877,9 @@
                                                         <!--begin::Menu-->
                                                         <div class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-600 menu-state-bg-light-primary fw-semibold fs-7 w-125px py-4" data-kt-menu="true">
                                                             <!--begin::Menu item-->
+                                                            <div class="menu-item px-3">
+                                                                <a href="edit-institution.php" class="menu-link px-3">View</a>
+                                                            </div>
                                                             <div class="menu-item px-3">
                                                                 <a href="edit-institution.php" class="menu-link px-3">Edit</a>
                                                             </div>
@@ -885,12 +917,12 @@
                                                         <span class="fw-bold">Indonesia</span>
                                                     </td>
                                                     <td class="text-end pe-0" data-order="14">
-                                                        <span class="fw-bold ms-3">64,54</span>
+                                                        <span class="fw-bold ms-3">Private</span>
                                                     </td>
                                                     <td class="text-end pe-0">12</td>
-                                                    <td class="text-end pe-0" data-order="Scheduled">
+                                                    <td class="text-end pe-0" data-order="Disabled">
                                                         <!--begin::Badges-->
-                                                        <div class="badge badge-light-primary">Scheduled</div>
+                                                        <div class="badge badge-light-primary">Disabled</div>
                                                         <!--end::Badges-->
                                                     </td>
                                                     <td class="text-end">
@@ -899,6 +931,9 @@
                                                         <!--begin::Menu-->
                                                         <div class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-600 menu-state-bg-light-primary fw-semibold fs-7 w-125px py-4" data-kt-menu="true">
                                                             <!--begin::Menu item-->
+                                                            <div class="menu-item px-3">
+                                                                <a href="edit-institution.php" class="menu-link px-3">View</a>
+                                                            </div>
                                                             <div class="menu-item px-3">
                                                                 <a href="edit-institution.php" class="menu-link px-3">Edit</a>
                                                             </div>
@@ -936,7 +971,7 @@
                                                         <span class="fw-bold">Malaysia</span>
                                                     </td>
                                                     <td class="text-end pe-0" data-order="14">
-                                                        <span class="fw-bold ms-3">64,54</span>
+                                                        <span class="fw-bold ms-3">Public</span>
                                                     </td>
                                                     <td class="text-end pe-0">13</td>
                                                     <td class="text-end pe-0" data-order="Inactive">
@@ -950,6 +985,9 @@
                                                         <!--begin::Menu-->
                                                         <div class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-600 menu-state-bg-light-primary fw-semibold fs-7 w-125px py-4" data-kt-menu="true">
                                                             <!--begin::Menu item-->
+                                                            <div class="menu-item px-3">
+                                                                <a href="edit-institution.php" class="menu-link px-3">View</a>
+                                                            </div>
                                                             <div class="menu-item px-3">
                                                                 <a href="edit-institution.php" class="menu-link px-3">Edit</a>
                                                             </div>
