@@ -804,6 +804,7 @@
                                 <option value="3">Date</option>
                                 <option value="4">File Upload</option>
                                 <option value="5">Text Area</option>
+                                <option value="6">URL</option>
                             </select>
                         </div>
                     </div>
