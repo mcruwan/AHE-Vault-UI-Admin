@@ -136,7 +136,7 @@
                             <!--begin::Content container-->
                             <div id="kt_app_content_container" class="app-container container-xxl">
                                 <!--begin::Form-->
-                                <form id="kt_ecommerce_add_product_form" class="form d-flex flex-column flex-lg-row" data-kt-redirect="apps/ecommerce/catalog/products.html">
+                                <form id="kt_ecommerce_add_product_form" class="form d-flex flex-column flex-lg-row" data-kt-redirect="edit-institution.php">
                                     <!--begin::Aside column-->
                                     <div class="d-flex flex-column gap-7 gap-lg-10 w-100 w-lg-300px mb-7 me-lg-10">
                                         <!--begin::Thumbnail settings-->
@@ -2678,7 +2678,7 @@
 
                     <div class="d-flex justify-content-end mt-5">
                         <!--begin::Button-->
-                        <a href="apps/ecommerce/catalog/products.html" id="kt_ecommerce_add_product_cancel" class="btn btn-light me-5">Cancel</a>
+                        <a href="edit-institution.php" id="kt_ecommerce_add_product_cancel" class="btn btn-light me-5">Cancel</a>
                         <!--end::Button-->
                         <!--begin::Button-->
                         <button type="submit" id="kt_ecommerce_add_product_submit" class="btn btn-primary">

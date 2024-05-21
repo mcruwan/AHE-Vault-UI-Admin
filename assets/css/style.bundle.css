@@ -2175,6 +2175,15 @@ progress {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
   }
+
+  .nav-line-tabs.nav-line-tabs-2x .nav-item .nav-link {
+    font-size: 12px;
+    margin-right: 4px;
+  }
+
+  .symbol.symbol-100px.symbol-fixed > img {
+    width: 180px !important;
+  }
 }
 @media (max-width: 767.98px) {
   .table-responsive-md {
