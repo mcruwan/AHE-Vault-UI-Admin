@@ -189,7 +189,7 @@
                             </div>
                             <!--end::Statistics-->
                             <!--begin::Description-->
-                            <span class="fs-6 fw-semibold text-gray-500">Total No of Institutions</span>
+                            <span class="fs-6 fw-semibold text-gray-500">Total Number of Institutions</span>
                             <!--end::Description-->
                         </div>
                         <!--end::Statistics-->
