@@ -282,12 +282,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-data.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/1.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/vue-vuetify.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 1</a>
+                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Sunway University </a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -329,12 +329,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-data.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/2.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/vue-vuetify.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 2</a>
+                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Krirk University</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -376,12 +376,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-data.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/3.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/vue-vuetify.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 3</a>
+                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">UCSI University</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -423,12 +423,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-data.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/4.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/vue-vuetify.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 4</a>
+                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Taylor's University </a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -474,12 +474,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-data.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/5.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/vue-vuetify.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 5</a>
+                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Infrastructure University Kuala Lumpur</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -521,12 +521,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-data.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/6.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/vue-vuetify.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 6</a>
+                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Asia Metropolitan University</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -568,12 +568,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-data.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/7.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/vue-vuetify.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 7</a>
+                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Telkom University </a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -615,12 +615,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-data.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/8.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/vue-vuetify.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 8</a>
+                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Universitas Ciputra Surabaya </a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -662,12 +662,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-data.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/9.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/vue-vuetify.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 9</a>
+                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Manila Central University </a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -709,12 +709,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-data.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/10.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/vue-vuetify.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 10</a>
+                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">SEGi University</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -756,12 +756,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-data.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/11.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/vue-vuetify.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 11</a>
+                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Duy Tan University</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -803,12 +803,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-data.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/12.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/vue-vuetify.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 12</a>
+                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">City University</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -850,12 +850,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-data.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/13.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/vue-vuetify.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 13</a>
+                                                                <a href="edit-data.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Silliman University</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>

@@ -280,12 +280,13 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-institution.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/1.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/laravel-blade.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 1</a>
+                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">
+                                                                    Universitas Hasanuddin</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -334,12 +335,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-institution.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/2.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/laravel-blade.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 2</a>
+                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Universitas Airlangga</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -388,12 +389,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-institution.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/3.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/laravel-blade.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 3</a>
+                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Chang Jung Christian University</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -442,12 +443,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-institution.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/4.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/laravel-blade.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 4</a>
+                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Pearl Academy</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -496,12 +497,13 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-institution.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/5.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/laravel-blade.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 5</a>
+                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">
+                                                                    Thu Dau Mot University</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -547,12 +549,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-institution.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/6.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/laravel-blade.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 6</a>
+                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Universitas Kristen Satya Wacana</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -601,12 +603,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-institution.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/7.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/laravel-blade.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 7</a>
+                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Soegijapranata Catholic University</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -655,12 +657,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-institution.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/8.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/laravel-blade.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 8</a>
+                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">MIU City University Miami</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -709,12 +711,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-institution.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/9.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/laravel-blade.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 9</a>
+                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Universitas Muhammadiyah Malang </a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -763,12 +765,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-institution.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/10.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/laravel-blade.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 10</a>
+                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Universitas Islam Indonesia</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -817,12 +819,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-institution.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/11.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/laravel-blade.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 11</a>
+                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Holy Name University</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -871,12 +873,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-institution.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/12.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/laravel-blade.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 12</a>
+                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Mahidol University </a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -925,12 +927,12 @@
                                                         <div class="d-flex align-items-center">
                                                             <!--begin::Thumbnail-->
                                                             <a href="edit-institution.php" class="symbol symbol-50px">
-                                                                <span class="symbol-label" style="background-image:url(assets/media//stock/ecommerce/13.png);"></span>
+                                                                <span class="symbol-label" style="background-image:url(assets/media/features-logos/laravel-blade.png);"></span>
                                                             </a>
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Institution 13</a>
+                                                                <a href="edit-institution.php" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Universiti Teknologi Brunei </a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
