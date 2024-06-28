@@ -158,13 +158,13 @@
                                             <!--begin:: Card body-->
                                             <div class="card-body p-9">
                                                 <!--begin::Name-->
-                                                <div class="fs-3 fw-bold text-gray-900">Public & Private University Ranking: ASEAN 2024</div>
+                                                <div class="fs-3 fw-bold text-gray-900 text-center">Public & Private University Ranking: ASEAN 2024</div>
                                                 <!--end::Name-->
 
                                                 <hr style="width: 55%;margin: 15px auto;color: #a99f9f;">
 
-                                                <p class="my-3 fs-5 text-gray-500">Publish Date - 2024/05/10</p>
-                                                <p class="my-3 fs-5 text-gray-500">Completed Date - 2024/05/20</p>
+                                                <p class="my-3 fs-5 text-gray-500 text-center">Publish Date - 2024/05/10</p>
+                                                <p class="my-3 fs-5 text-gray-500 text-center">Completed Date - 2024/05/20</p>
 
                                                 <hr style="width: 55%;margin: 15px auto;color: #a99f9f;">
 
@@ -236,13 +236,13 @@
                                             <!--begin:: Card body-->
                                             <div class="card-body p-9">
                                                 <!--begin::Name-->
-                                                <div class="fs-3 fw-bold text-gray-900">Public & Private University Ranking: ASEAN 2025</div>
+                                                <div class="fs-3 fw-bold text-gray-900 text-center">Public & Private University Ranking: ASEAN 2025</div>
                                                 <!--end::Name-->
 
                                                 <hr style="width: 55%;margin: 15px auto;color: #a99f9f;">
 
-                                                <p class="my-3 fs-5 text-gray-500">Publish Date - 2024/05/10</p>
-                                                <p class="my-3 fs-5 text-gray-500">Completed Date - 2024/05/20</p>
+                                                <p class="my-3 fs-5 text-gray-500 text-center">Publish Date - 2024/05/22</p>
+                                                <p class="my-3 fs-5 text-gray-500 text-center">Completed Date - 2024/05/30</p>
 
                                                 <hr style="width: 55%;margin: 15px auto;color: #a99f9f;">
 
@@ -255,7 +255,7 @@
                                                                 <!--begin::Statistics-->
                                                                 <div class="d-block align-items-center mb-2">
                                                                     <!--begin::Value-->
-                                                                    <span class="fs-2hx fw-bold text-gray-800 me-2 lh-1">1,239</span>
+                                                                    <span class="fs-2hx fw-bold text-gray-800 me-2 lh-1">539</span>
                                                                     <!--end::Value-->
                                                                 </div>
                                                                 <!--end::Statistics-->
@@ -271,7 +271,7 @@
                                                                 <!--begin::Statistics-->
                                                                 <div class="d-block align-items-center mb-2">
                                                                     <!--begin::Value-->
-                                                                    <span class="fs-2hx fw-bold text-gray-800 me-2 lh-1">324</span>
+                                                                    <span class="fs-2hx fw-bold text-gray-800 me-2 lh-1">544</span>
                                                                     <!--end::Value-->
                                                                 </div>
                                                                 <!--end::Statistics-->
@@ -314,13 +314,13 @@
                                             <!--begin:: Card body-->
                                             <div class="card-body p-9">
                                                 <!--begin::Name-->
-                                                <div class="fs-3 fw-bold text-gray-900" style="height: 52px;">JOB-Ready RATING</div>
+                                                <div class="fs-3 fw-bold text-gray-900 text-center" style="height: 52px;">JOB-Ready RATING</div>
                                                 <!--end::Name-->
 
                                                 <hr style="width: 55%;margin: 15px auto;color: #a99f9f;">
 
-                                                <p class="my-3 fs-5 text-gray-500">Publish Date - 2024/05/10</p>
-                                                <p class="my-3 fs-5 text-gray-500">Completed Date - 2024/05/20</p>
+                                                <p class="my-3 fs-5 text-gray-500 text-center">Publish Date - 2024/04/10</p>
+                                                <p class="my-3 fs-5 text-gray-500 text-center">Completed Date - 2024/04/24</p>
 
                                                 <hr style="width: 55%;margin: 15px auto;color: #a99f9f;">
 
@@ -333,7 +333,7 @@
                                                                 <!--begin::Statistics-->
                                                                 <div class="d-block align-items-center mb-2">
                                                                     <!--begin::Value-->
-                                                                    <span class="fs-2hx fw-bold text-gray-800 me-2 lh-1">1,239</span>
+                                                                    <span class="fs-2hx fw-bold text-gray-800 me-2 lh-1">1,951</span>
                                                                     <!--end::Value-->
                                                                 </div>
                                                                 <!--end::Statistics-->
@@ -349,7 +349,7 @@
                                                                 <!--begin::Statistics-->
                                                                 <div class="d-block align-items-center mb-2">
                                                                     <!--begin::Value-->
-                                                                    <span class="fs-2hx fw-bold text-gray-800 me-2 lh-1">324</span>
+                                                                    <span class="fs-2hx fw-bold text-gray-800 me-2 lh-1">921</span>
                                                                     <!--end::Value-->
                                                                 </div>
                                                                 <!--end::Statistics-->

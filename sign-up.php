@@ -178,7 +178,7 @@
                                                 <h2 class="fw-bold text-gray-900">Profile Info</h2>
                                                 <!--end::Title-->
                                                 <!--begin::Notice-->
-                                                <div class="text-muted fw-semibold fs-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
+                                                <div class="text-muted fw-semibold fs-6">Manage Your Personal Details</div>
                                                 <!--end::Notice-->
                                             </div>
                                             <div class="fv-row mb-8">
@@ -274,7 +274,7 @@
                                                 <h2 class="fw-bold text-gray-900">University Details</h2>
                                                 <!--end::Title-->
                                                 <!--begin::Notice-->
-                                                <div class="text-muted fw-semibold fs-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
+                                                <div class="text-muted fw-semibold fs-6">Explore Our Campus and Community</div>
                                                 <!--end::Notice-->
                                             </div>
                                             <!--end::Heading-->

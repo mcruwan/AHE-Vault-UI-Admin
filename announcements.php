@@ -185,7 +185,7 @@
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="#" data-bs-toggle="modal" data-bs-target="#modal_view_announcement" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Lorem Ipsum is simply dummy text lorem Ipsum is simply dummy text</a>
+                                                                <a href="#" data-bs-toggle="modal" data-bs-target="#modal_view_announcement" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Please note that the schedule for Management has been updated. The new class timings are now available on the course page.</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -240,16 +240,16 @@
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="#" data-bs-toggle="modal" data-bs-target="#modal_view_announcement" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Lorem Ipsum is simply dummy text lorem Ipsum is simply dummy text</a>
+                                                                <a href="#" data-bs-toggle="modal" data-bs-target="#modal_view_announcement" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Join us for the Annual Science Fair on July 15th at the Main Auditorium. Participate in workshops and meet industry experts!</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
                                                     </td>
                                                     <td class="text-end">
-                                                        <span class="fw-bold">IT</span>
+                                                        <span class="fw-bold">Management</span>
                                                     </td>
                                                     <td class="text-end" data-order="14">
-                                                        <span class="fw-bold ms-3">2024.05.27</span>
+                                                        <span class="fw-bold ms-3">2024.05.26</span>
                                                     </td>
                                                     <td class="text-end" data-order="Disabled">
                                                         <!--begin::Badges-->
@@ -295,16 +295,16 @@
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="#" data-bs-toggle="modal" data-bs-target="#modal_view_announcement" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Lorem Ipsum is simply dummy text lorem Ipsum is simply dummy text</a>
+                                                                <a href="#" data-bs-toggle="modal" data-bs-target="#modal_view_announcement" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">The results for the Spring Semester exams have been released. Check your student portal for detailed scores.</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
                                                     </td>
                                                     <td class="text-end">
-                                                        <span class="fw-bold">IT</span>
+                                                        <span class="fw-bold">Psychology</span>
                                                     </td>
                                                     <td class="text-end" data-order="14">
-                                                        <span class="fw-bold ms-3">2024.05.27</span>
+                                                        <span class="fw-bold ms-3">2024.04.23</span>
                                                     </td>
                                                     <td class="text-end" data-order="Inactive">
                                                         <!--begin::Badges-->
@@ -350,7 +350,7 @@
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="#" data-bs-toggle="modal" data-bs-target="#modal_view_announcement" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Lorem Ipsum is simply dummy text lorem Ipsum is simply dummy text</a>
+                                                                <a href="#" data-bs-toggle="modal" data-bs-target="#modal_view_announcement" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">The university will be closed on July 4th in observance of Independence Day. Classes will resume on July 5th.</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
@@ -359,7 +359,7 @@
                                                         <span class="fw-bold">IT</span>
                                                     </td>
                                                     <td class="text-end" data-order="14">
-                                                        <span class="fw-bold ms-3">2024.05.27</span>
+                                                        <span class="fw-bold ms-3">2024.04.18</span>
                                                     </td>
                                                     <td class="text-end" data-order="Inactive">
                                                         <!--begin::Badges-->
@@ -405,16 +405,16 @@
                                                             <!--end::Thumbnail-->
                                                             <div class="ms-5">
                                                                 <!--begin::Title-->
-                                                                <a href="#" data-bs-toggle="modal" data-bs-target="#modal_view_announcement" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Lorem Ipsum is simply dummy text lorem Ipsum is simply dummy text</a>
+                                                                <a href="#" data-bs-toggle="modal" data-bs-target="#modal_view_announcement" class="text-gray-800 text-hover-primary fs-5 fw-bold" data-kt-ecommerce-product-filter="product_name">Updated COVID-19 guidelines are now in effect. Masks are mandatory in all indoor spaces. Please refer to the Health Services page for more details.</a>
                                                                 <!--end::Title-->
                                                             </div>
                                                         </div>
                                                     </td>
                                                     <td class="text-end">
-                                                        <span class="fw-bold">IT</span>
+                                                        <span class="fw-bold">Management</span>
                                                     </td>
                                                     <td class="text-end" data-order="14">
-                                                        <span class="fw-bold ms-3">2024.05.27</span>
+                                                        <span class="fw-bold ms-3">2024.04.12</span>
                                                     </td>
                                                     <td class="text-end" data-order="Active">
                                                         <!--begin::Badges-->
@@ -1150,7 +1150,7 @@
                             <div class="col-lg-8 fv-row">
                                 <div class="row">
                                     <div class="fv-row">
-                                        <textarea class="form-control h-175px">Lorem Ipsum is simply dummy text lorem Ipsum is simply dummy text lorem Ipsum is simply text. Lorem Ipsum is simply dummy text lorem Ipsum is simply dummy text. Lorem Ipsum is simply dummy text lorem Ipsum is simply dummy text</textarea>
+                                        <textarea class="form-control h-175px">Updated COVID-19 guidelines are now in effect. Masks are mandatory in all indoor spaces. Please refer to the Health Services page for more details.</textarea>
                                     </div>
                                 </div>
                             </div>
@@ -1173,7 +1173,7 @@
                                 <div class="row">
                                     <div class="fv-row">
                                         <select class="form-select form-select-sm">
-                                            <option value="Draft">IT</option>
+                                            <option value="Draft">Management</option>
                                         </select>
                                     </div>
                                 </div>
@@ -1220,7 +1220,7 @@
                 <div class="modal-body p-lg-12">
                     <div class="card-body">
                         <div class="modal-header px-0 pt-0 border-0">
-                            <h4>Announcement 001</h4>
+                            <h4>Updated COVID-19 guidelines are now in effect.</h4>
                             <div class="btn btn-primary px-8y" data-bs-toggle="modal" data-bs-target="#modal_update_announcement">
                                 Edit
                             </div>
@@ -1228,7 +1228,7 @@
                         <label class="d-block">Date - 2025-05-25</label>
                         <label class="d-block py-2">Category - IT</label>
                         <label class="d-block">Status - <div class="badge badge-light-danger">Inactive</div></label>
-                        <label class="mt-8">Lorem Ipsum is simply dummy text lorem Ipsum is simply dummy text lorem Ipsum is simply text. Lorem Ipsum is simply dummy text lorem Ipsum is simply dummy text. Lorem Ipsum is simply dummy text lorem Ipsum is simply dummy text. Lorem Ipsum is simply dummy text lorem Ipsum is simply dummy text lorem Ipsum is simply text. Lorem Ipsum is simply dummy text lorem Ipsum is simply dummy text. Lorem Ipsum is simply dummy text lorem Ipsum is simply dummy text. Lorem Ipsum is simply dummy text lorem Ipsum is simply dummy text lorem Ipsum is simply text. Lorem Ipsum is simply dummy text lorem Ipsum is simply dummy text. Lorem Ipsum is simply dummy text lorem Ipsum is simply dummy text</label>
+                        <label class="mt-8">Updated COVID-19 guidelines are now in effect. Masks are mandatory in all indoor spaces. Please refer to the Health Services page for more details.</label>
                     </div>
 
                     <div class="card-footer d-flex justify-content-center pt-7">

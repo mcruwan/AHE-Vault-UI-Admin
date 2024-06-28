@@ -10,24 +10,11 @@
                     <!--begin:Menu link-->
                     <a href="announcements.php" class="menu-link">
                         <span class="menu-custom-icon d-flex flex-center flex-shrink-0 rounded h-40px me-3">
-                            <i class="ki-outline ki-element-11 text-primary fs-1"></i>
+                            <i class="ki-outline ki-call text-primary fs-1"></i>
                         </span>
                         <span class="d-flex flex-column">
                             <span class="fs-6 fw-bold text-gray-800">Announcements</span>
-                            <span class="fs-7 fw-semibold text-muted">Lorem Ipsum is simply dummy text</span>
-                        </span>
-                    </a>
-                    <!--end:Menu link-->
-                </div>
-                <div class="menu-item px-2 m-0">
-                    <!--begin:Menu link-->
-                    <a href="#" class="menu-link">
-                        <span class="menu-custom-icon d-flex flex-center flex-shrink-0 rounded h-40px me-3">
-                            <i class="ki-outline ki-basket text-danger fs-1"></i>
-                        </span>
-                        <span class="d-flex flex-column">
-                            <span class="fs-6 fw-bold text-gray-800">Title 1</span>
-                            <span class="fs-7 fw-semibold text-muted">Lorem Ipsum is simply dummy text</span>
+                            <span class="fs-7 fw-semibold text-muted">Current Announcements and Notifications</span>
                         </span>
                     </a>
                     <!--end:Menu link-->
