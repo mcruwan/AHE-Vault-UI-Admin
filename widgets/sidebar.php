@@ -209,39 +209,64 @@
                 <!--end::Title-->
                 <!--begin::Row-->
                 <div class="row row-cols-3" data-kt-buttons="true" data-kt-buttons-target="[data-kt-button]">
-
+                    <!--begin::Col-->
                     <div class="col mb-4">
                         <!--begin::Link-->
-                        <a href="#" class="btn btn-icon btn-outline btn-flex flex-column flex-center w-100 h-40px" data-kt-button="true" style="border-color: #fe5f0b;color: #fe5f0b;">
+                        <a href="#" class="btn btn-icon btn-outline btn-bg-light btn-active-light-primary btn-flex flex-column flex-center w-lg-90px h-lg-90px w-70px h-70px border-gray-200" data-kt-button="true">
+                            <!--begin::Icon-->
+                            <span class="mb-2">
+                                <i class="ki-outline ki-user fs-1"></i>
+                            </span>
+                            <!--end::Icon-->
                             <!--begin::Label-->
                             <span class="fs-7 fw-bold">Profile</span>
                             <!--end::Label-->
                         </a>
                         <!--end::Link-->
                     </div>
-
                     <div class="col mb-4">
                         <!--begin::Link-->
-                        <a href="#" class="btn btn-icon btn-outline btn-flex flex-column flex-center w-100 h-40px" data-kt-button="true" style="border-color: #fe5f0b;color: #fe5f0b;">
+                        <a href="#" class="btn btn-icon btn-outline btn-bg-light btn-active-light-primary btn-flex flex-column flex-center w-lg-90px h-lg-90px w-70px h-70px border-gray-200" data-kt-button="true">
+                            <!--begin::Icon-->
+                            <span class="mb-2">
+                                <i class="ki-outline ki-geolocation fs-1"></i>
+                            </span>
+                            <!--end::Icon-->
                             <!--begin::Label-->
                             <span class="fs-7 fw-bold">Institutions</span>
                             <!--end::Label-->
                         </a>
                         <!--end::Link-->
                     </div>
+                    <!--end::Col-->
+                    <!--begin::Col-->
                     <div class="col mb-4">
                         <!--begin::Link-->
-                        <a href="#" class="btn btn-icon btn-outline btn-flex flex-column flex-center w-100 h-40px" data-kt-button="true" style="border-color: #fe5f0b;color: #fe5f0b;">
+                        <a href="#" class="btn btn-icon btn-outline btn-bg-light btn-active-light-primary btn-flex flex-column flex-center w-lg-90px h-lg-90px w-70px h-70px border-gray-200" data-kt-button="true">
+                            <!--begin::Icon-->
+                            <span class="mb-2">
+                                <i class="ki-outline ki-rocket fs-1"></i>
+                            </span>
+                            <!--end::Icon-->
                             <!--begin::Label-->
                             <span class="fs-7 fw-bold">Rankings</span>
                             <!--end::Label-->
                         </a>
                         <!--end::Link-->
                     </div>
-
+                    <!--end::Col-->
+                    <!--begin::Col-->
+                    
+                    <!--end::Col-->
+                    <!--begin::Col-->
                     <div class="col mb-4">
                         <!--begin::Link-->
-                        <a href="#" class="btn btn-icon btn-outline btn-flex flex-column flex-center w-100 h-40px" data-kt-button="true" style="border-color: #fe5f0b;color: #fe5f0b;">
+                        <a href="#" class="btn btn-icon btn-outline btn-bg-light btn-active-light-primary btn-flex flex-column flex-center w-lg-90px h-lg-90px w-70px h-70px border-gray-200" data-kt-button="true">
+                            <!--begin::Icon-->
+                            <span class="mb-2">
+                                <i class="ki-outline ki-chart-line-up-2 fs-1"></i>
+                            </span>
+                            <!--end::Icon-->
                             <!--begin::Label-->
                             <span class="fs-7 fw-bold">Charts</span>
                             <!--end::Label-->
@@ -251,7 +276,12 @@
 
                     <div class="col mb-4">
                         <!--begin::Link-->
-                        <a href="#" class="btn btn-icon btn-outline btn-flex flex-column flex-center w-100 h-40px" data-kt-button="true" style="border-color: #fe5f0b;color: #fe5f0b;">
+                        <a href="#" class="btn btn-icon btn-outline btn-bg-light btn-active-light-primary btn-flex flex-column flex-center w-lg-90px h-lg-90px w-70px h-70px border-gray-200" data-kt-button="true">
+                            <!--begin::Icon-->
+                            <span class="mb-2">
+                                <i class="ki-outline ki-plus fs-1"></i>
+                            </span>
+                            <!--end::Icon-->
                             <!--begin::Label-->
                             <span class="fs-7 fw-bold">Add User</span>
                             <!--end::Label-->
@@ -259,46 +289,74 @@
                         <!--end::Link-->
                     </div>
 
+                    <!--end::Col-->
+                    <!--begin::Col-->
                     <div class="col mb-4">
                         <!--begin::Link-->
-                        <a href="#" class="btn btn-icon btn-outline btn-flex flex-column flex-center w-100 h-40px" data-kt-button="true" style="border-color: #fe5f0b;color: #fe5f0b;">
+                        <a href="#" class="btn btn-icon btn-outline btn-bg-light btn-active-light-primary btn-flex flex-column flex-center w-lg-90px h-lg-90px w-70px h-70px border-gray-200" data-kt-button="true">
+                            <!--begin::Icon-->
+                            <span class="mb-2">
+                                <i class="ki-outline ki-shield-tick fs-1"></i>
+                            </span>
+                            <!--end::Icon-->
                             <!--begin::Label-->
                             <span class="fs-7 fw-bold">Timeline</span>
                             <!--end::Label-->
                         </a>
                         <!--end::Link-->
                     </div>
-
+                    <!--end::Col-->
+                    <!--begin::Col-->
                     <div class="col mb-4">
                         <!--begin::Link-->
-                        <a href="#" class="btn btn-icon btn-outline btn-flex flex-column flex-center w-100 h-40px" data-kt-button="true" style="border-color: #fe5f0b;color: #fe5f0b;">
-                            <!--begin::Label-->
-                            <span class="fs-7 fw-bold">Add DM</span>
-                            <!--end::Label-->
-                        </a>
-                        <!--end::Link-->
-                    </div>
-
-                    <div class="col mb-4">
-                        <!--begin::Link-->
-                        <a href="#" class="btn btn-icon btn-outline btn-flex flex-column flex-center w-100 h-40px" data-kt-button="true" style="border-color: #fe5f0b;color: #fe5f0b;">
-                            <!--begin::Label-->
-                            <span class="fs-7 fw-bold">Settings</span>
-                            <!--end::Label-->
-                        </a>
-                        <!--end::Link-->
-                    </div>
-
-                    <div class="col mb-4">
-                        <!--begin::Link-->
-                        <a href="#" class="btn btn-icon btn-outline btn-flex flex-column flex-center w-100 h-40px" data-kt-button="true" style="border-color: #fe5f0b;color: #fe5f0b;">
+                        <a href="#" class="btn btn-icon btn-outline btn-bg-light btn-active-light-primary btn-flex flex-column flex-center w-lg-90px h-lg-90px w-70px h-70px border-gray-200" data-kt-button="true">
+                            <!--begin::Icon-->
+                            <span class="mb-2">
+                                <i class="ki-outline ki-call fs-1"></i>
+                            </span>
+                            <!--end::Icon-->
                             <!--begin::Label-->
                             <span class="fs-7 fw-bold">Support</span>
                             <!--end::Label-->
                         </a>
                         <!--end::Link-->
                     </div>
-
+                    <!--end::Col-->
+                    <!--begin::Col-->
+                    
+                    <!--end::Col-->
+                    <!--begin::Col-->
+                    <div class="col mb-4">
+                        <!--begin::Link-->
+                        <a href="#" class="btn btn-icon btn-outline btn-bg-light btn-active-light-primary btn-flex flex-column flex-center w-lg-90px h-lg-90px w-70px h-70px border-gray-200" data-kt-button="true">
+                            <!--begin::Icon-->
+                            <span class="mb-2">
+                                <i class="ki-outline ki-abstract-28 fs-1"></i>
+                            </span>
+                            <!--end::Icon-->
+                            <!--begin::Label-->
+                            <span class="fs-7 fw-bold">Settings</span>
+                            <!--end::Label-->
+                        </a>
+                        <!--end::Link-->
+                    </div>
+                    <!--end::Col-->
+                    <!--begin::Col-->
+                    <div class="col mb-4">
+                        <!--begin::Link-->
+                        <a href="#" class="btn btn-icon btn-outline btn-bg-light btn-active-light-primary btn-flex flex-column flex-center w-lg-90px h-lg-90px w-70px h-70px active border-primary border-dashed" data-kt-button="true">
+                            <!--begin::Icon-->
+                            <span class="mb-2">
+                                <i class="ki-outline ki-plus fs-1"></i>
+                            </span>
+                            <!--end::Icon-->
+                            <!--begin::Label-->
+                            <span class="fs-7 fw-bold">Add New</span>
+                            <!--end::Label-->
+                        </a>
+                        <!--end::Link-->
+                    </div>
+                    <!--end::Col-->
                 </div>
                 <!--end::Row-->
             </div>
